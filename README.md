@@ -1,4 +1,15 @@
-## Hi there 👋
+## Soy Pilar Alvarez 👋
+
+Desarrolladora Full Stack con conocimientos en varios lenguajes:
+<ul>
+  <li>PHP</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C#</li>
+  <li>C++</li>
+  <li>C</li>
+</ul>
 
 <!--
 **PilarAlva/PilarAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
