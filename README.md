@@ -1,8 +1,11 @@
 ## Soy Pilar Alvarez 👋
 
-Desarrolladora Full Stack con conocimientos en varios lenguajes:
+Estudiante de la Universidad Tecnológica Nacional. Formación en desarrollo Full Stack. 
+
+<h3>Lenguajes conocidos:</h3>
 <ul>
   <li>PHP</li>
+  <li>SQL y MySQL</li>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
