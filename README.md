@@ -1,19 +1,6 @@
 ## Soy Pilar Alvarez 👋
 
-Estudiante de la Universidad Tecnológica Nacional. Formación en desarrollo Full Stack. 
-
-<h3>Lenguajes conocidos:</h3>
-<ul>
-  <li>PHP</li>
-  <li>SQL y MySQL</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>C#</li>
-  <li>C++</li>
-  <li>C</li>
-</ul>
-
+Técnica Programadora egresada de la UTN FRH. Formación en desarrollo Full Stack. 
 <!--
 **PilarAlva/PilarAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
