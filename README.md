@@ -1,9 +1,10 @@
-## Soy Pilar Alvarez✨
-Técnica Universitaria en Programación. 
+<div align="center">
+  <h1>✨Soy Pilar Alvarez✨</h1> 
+</div>
 
----
 
-Desarrolladora Front-End & Back-End Trainee. Agile Delivery & Enfoque en Experiencia de Usuario (UI/UX), con proyectos reales entregados y otros en desarrollo. Aporto un diferencial único para roles iniciales: experiencia real liderando el ciclo completo de proyectos de software, combinando rigor técnico con gestión de entregas, metodologías ágiles y relevamiento enfocado en la experiencia del usuario.
+Técnica Universitaria en Programación con proyectos reales entregados y otros en desarrollo. Aporto un diferencial único para roles iniciales: experiencia real liderando el ciclo completo de proyectos de software, combinando rigor técnico con gestión de entregas, metodologías ágiles y relevamiento enfocado en la experiencia del usuario.
+
 
 ## Mis Habilidades 🎯
 - Pensamiento analítico y resolución de problemas: Enfoque objetivo y detallista para optimizar soluciones según las necesidades del usuario.
@@ -12,11 +13,13 @@ Desarrolladora Front-End & Back-End Trainee. Agile Delivery & Enfoque en Experie
 - Comunicación clara y constante: Orientación a mantener a los colaboradores alineados y resolver incidencias eficientemente.
 
 ## Mi stack tecnológico 👾
-#### Front-End: 
-HTML5, CSS3, JavaScript.
-#### Back-End: 
-PHP, Python, C#, C++, C.
-#### Bases de Datos: 
+### Front-End: 
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Back-End: 
+<img src="https://skillicons.dev/icons?i=php,python,cs,cpp,c" />
+
+### Bases de Datos: 
 SQL, PL/SQL, Oracle, MySQL
 
 <!--
